@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T09:03:10.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="6a0a7embAP7vNHK-vMF6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T09:18:09.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="2hnW3IHkWshUapRzyqoC" type="github">
   <diagram id="Zs5yMemFec8XR6SQiV4N" name="CustomerProfiles">
     <mxGraphModel dx="1564" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
         <mxCell id="nG4mqLeNwJ-k9fJy5DQI-69" value="CSA Agent" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="129" y="475" width="113" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="nG4mqLeNwJ-k9fJy5DQI-97" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="nG4mqLeNwJ-k9fJy5DQI-97" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="245" y="543" as="sourcePoint" />
             <mxPoint x="345" y="543" as="targetPoint" />
